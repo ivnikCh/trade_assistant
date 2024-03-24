@@ -1,1 +1,2 @@
-"# trade_assistant" 
+trade_assistant
+MIPT Chistiakov Nikita B05-312 
